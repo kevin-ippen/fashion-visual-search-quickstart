@@ -1,4 +1,4 @@
-# FashionCLIP Quickstart
+# Fashion Visual Search Quickstart
 
 Build a visual fashion search engine in 30 minutes using FashionCLIP embeddings and Databricks Vector Search.
 
