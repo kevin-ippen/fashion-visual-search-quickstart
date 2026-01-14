@@ -96,11 +96,15 @@ if DATA_SOURCE == "bundled":
     # When running in Databricks, the repo is mounted at /Workspace/Repos/...
     # For local testing, adjust this path
 
+    # Dynamically get current user for path resolution
+    current_user = spark.sql("SELECT current_user()").first()[0]
+
     # Try multiple possible locations
     possible_paths = [
-        "/Workspace/Repos/kevin.ippen@databricks.com/fashionclip-quickstart/data/products.csv",
-        "/Workspace/Users/kevin.ippen@databricks.com/fashionclip-quickstart/data/products.csv",
-        "file:/tmp/fashionclip-quickstart/data/products.csv"
+        f"/Workspace/Repos/{current_user}/fashion-visual-search-quickstart/data/products.csv",
+        f"/Workspace/Users/{current_user}/fashion-visual-search-quickstart/data/products.csv",
+        "/Workspace/Repos/fashion-visual-search-quickstart/data/products.csv",
+        "file:/tmp/fashion-visual-search-quickstart/data/products.csv"
     ]
 
     products_df = None

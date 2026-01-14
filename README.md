@@ -23,7 +23,7 @@ Build a visual fashion search engine in 30 minutes using FashionCLIP embeddings 
 
 ```bash
 # In your Databricks workspace
-Repos > Add Repo > https://github.com/your-org/fashionclip-quickstart
+Repos > Add Repo > https://github.com/kevin-ippen/fashion-visual-search-quickstart
 ```
 
 ### 2. Update configuration
@@ -60,7 +60,7 @@ results = index.similarity_search(
 ## Project Structure
 
 ```
-fashionclip-quickstart/
+fashion-visual-search-quickstart/
 ├── README.md                 # This file
 ├── config/
 │   └── config.yaml          # Configuration (edit this)
@@ -163,7 +163,7 @@ After completing this quickstart:
 
 1. **Add more products** - Scale to your full catalog
 2. **Build an application** - Use the Vector Search SDK in your app
-3. **Explore the full solution** - Check out [visual-outfit-intelligence](https://github.com/your-org/visual-outfit-intelligence) for:
+3. **Explore the full solution** - Check out [visual-outfit-intelligence](https://github.com/kevin-ippen/visual-outfit-intelligence) for:
    - SAM segmentation for lookbook images
    - Outfit recommendations
    - Style clustering

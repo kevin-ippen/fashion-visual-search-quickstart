@@ -1,0 +1,40 @@
+# Blog drafts (keep separate from quickstart repo)
+BLOG_*.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.eggs/
+*.egg-info/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Databricks
+.databricks/
+*.whl
+
+# Secrets (never commit these)
+*.pem
+*.key
+*secret*
+*credential*
+*token*
