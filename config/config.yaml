@@ -1,0 +1,34 @@
+# FashionCLIP Quickstart Configuration
+# =====================================
+# Update these values for your Databricks workspace
+
+# Unity Catalog Settings
+# -----------------------
+# Replace with your catalog and schema names
+catalog: main
+schema: fashion_quickstart
+
+# Model Serving Endpoint
+# ----------------------
+# Your FashionCLIP endpoint name (must be deployed and running)
+embedding_endpoint: fashionclip-endpoint
+
+# Vector Search Settings
+# ----------------------
+# Endpoint name for vector similarity search
+vector_search_endpoint: fashion-vs-quickstart
+
+# Index name (will be created in your catalog.schema)
+vector_index_name: product_embeddings_index
+
+# Processing Settings
+# -------------------
+batch_size: 32              # Images per batch for embedding generation
+embedding_dimension: 512     # FashionCLIP output dimension
+request_timeout: 120        # Seconds to wait for endpoint response
+
+# Data Paths
+# ----------
+# These are relative paths used within Databricks
+# Volume path: /Volumes/{catalog}/{schema}/product_images
+volume_name: product_images

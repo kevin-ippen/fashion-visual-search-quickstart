@@ -1,0 +1,101 @@
+product_id,display_name,category,sub_category,color,gender,season,usage,image_filename
+P001,Classic White Tee,Apparel,Tshirts,White,Men,Summer,Casual,10001.jpg
+P002,Essential Black Tee,Apparel,Tshirts,Black,Men,Fall,Casual,10002.jpg
+P003,Navy Crew Neck Tee,Apparel,Tshirts,Navy,Men,Summer,Casual,10003.jpg
+P004,Heather Grey V-Neck,Apparel,Tshirts,Grey,Men,Spring,Casual,10004.jpg
+P005,Red Athletic Tee,Apparel,Tshirts,Red,Men,Summer,Sports,10005.jpg
+P006,Organic White Tee,Apparel,Tshirts,White,Women,Summer,Casual,10006.jpg
+P007,Fitted Black Tee,Apparel,Tshirts,Black,Women,Fall,Casual,10007.jpg
+P008,Soft Pink Tee,Apparel,Tshirts,Pink,Women,Spring,Casual,10008.jpg
+P009,Sky Blue Relaxed Tee,Apparel,Tshirts,Blue,Women,Summer,Casual,10009.jpg
+P010,Oversized Grey Tee,Apparel,Tshirts,Grey,Unisex,Fall,Casual,10010.jpg
+P011,Classic White Oxford,Apparel,Shirts,White,Men,Summer,Formal,10011.jpg
+P012,Light Blue Oxford,Apparel,Shirts,Blue,Men,Spring,Formal,10012.jpg
+P013,Navy Slim Fit Dress Shirt,Apparel,Shirts,Navy,Men,Fall,Formal,10013.jpg
+P014,Black Formal Shirt,Apparel,Shirts,Black,Men,Winter,Formal,10014.jpg
+P015,Pink Linen Shirt,Apparel,Shirts,Pink,Men,Summer,Casual,10015.jpg
+P016,Classic White Blouse,Apparel,Shirts,White,Women,Summer,Formal,10016.jpg
+P017,Denim Shirt,Apparel,Shirts,Blue,Women,Spring,Casual,10017.jpg
+P018,Black Silk Blouse,Apparel,Shirts,Black,Women,Fall,Formal,10018.jpg
+P019,Pink Button-Down,Apparel,Shirts,Pink,Women,Summer,Casual,10019.jpg
+P020,Grey Chambray Shirt,Apparel,Shirts,Grey,Men,Spring,Casual,10020.jpg
+P021,Black Leather Biker Jacket,Apparel,Jackets,Black,Men,Winter,Casual,10021.jpg
+P022,Navy Bomber Jacket,Apparel,Jackets,Navy,Men,Fall,Casual,10022.jpg
+P023,Grey Wool Blazer,Apparel,Jackets,Grey,Men,Winter,Formal,10023.jpg
+P024,Brown Suede Trucker,Apparel,Jackets,Brown,Men,Fall,Casual,10024.jpg
+P025,Olive Field Jacket,Apparel,Jackets,Olive,Men,Spring,Casual,10025.jpg
+P026,Black Wool Coat,Apparel,Jackets,Black,Women,Winter,Formal,10026.jpg
+P027,Beige Trench Coat,Apparel,Jackets,Beige,Women,Fall,Casual,10027.jpg
+P028,Pink Denim Jacket,Apparel,Jackets,Pink,Women,Spring,Casual,10028.jpg
+P029,Navy Quilted Puffer,Apparel,Jackets,Navy,Women,Fall,Casual,10029.jpg
+P030,Oversized Grey Blazer,Apparel,Jackets,Grey,Women,Winter,Casual,10030.jpg
+P031,Classic Blue Straight Jeans,Apparel,Jeans,Blue,Men,Fall,Casual,10031.jpg
+P032,Black Skinny Jeans,Apparel,Jeans,Black,Men,Winter,Casual,10032.jpg
+P033,Dark Wash Slim Jeans,Apparel,Jeans,Dark Blue,Men,Fall,Casual,10033.jpg
+P034,Light Wash Relaxed Jeans,Apparel,Jeans,Light Blue,Men,Summer,Casual,10034.jpg
+P035,Grey Tapered Jeans,Apparel,Jeans,Grey,Men,Spring,Casual,10035.jpg
+P036,High Rise Blue Jeans,Apparel,Jeans,Blue,Women,Fall,Casual,10036.jpg
+P037,Black High Waist Skinny,Apparel,Jeans,Black,Women,Winter,Casual,10037.jpg
+P038,Mom Fit Light Jeans,Apparel,Jeans,Light Blue,Women,Summer,Casual,10038.jpg
+P039,Dark Blue Bootcut,Apparel,Jeans,Dark Blue,Women,Fall,Casual,10039.jpg
+P040,White High Rise Jeans,Apparel,Jeans,White,Women,Summer,Casual,10040.jpg
+P041,Black Wool Trousers,Apparel,Trousers,Black,Men,Winter,Formal,10041.jpg
+P042,Navy Cotton Chinos,Apparel,Trousers,Navy,Men,Fall,Formal,10042.jpg
+P043,Grey Flat Front Slacks,Apparel,Trousers,Grey,Men,Spring,Formal,10043.jpg
+P044,Khaki Cotton Chinos,Apparel,Trousers,Khaki,Men,Summer,Casual,10044.jpg
+P045,Beige Linen Trousers,Apparel,Trousers,Beige,Men,Spring,Casual,10045.jpg
+P046,Black Tailored Pants,Apparel,Trousers,Black,Women,Winter,Formal,10046.jpg
+P047,Navy Wide Leg Pants,Apparel,Trousers,Navy,Women,Fall,Formal,10047.jpg
+P048,White Linen Trousers,Apparel,Trousers,White,Women,Summer,Casual,10048.jpg
+P049,Beige High Waist Chinos,Apparel,Trousers,Beige,Women,Spring,Casual,10049.jpg
+P050,Grey Wool Dress Pants,Apparel,Trousers,Grey,Women,Winter,Formal,10050.jpg
+P051,Black Little Dress,Apparel,Dresses,Black,Women,Fall,Party,10051.jpg
+P052,Red Evening Dress,Apparel,Dresses,Red,Women,Winter,Party,10052.jpg
+P053,Blue Denim Shirt Dress,Apparel,Dresses,Blue,Women,Summer,Casual,10053.jpg
+P054,White Summer Dress,Apparel,Dresses,White,Women,Summer,Casual,10054.jpg
+P055,Pink Floral Dress,Apparel,Dresses,Pink,Women,Spring,Party,10055.jpg
+P056,Navy Midi Work Dress,Apparel,Dresses,Navy,Women,Fall,Formal,10056.jpg
+P057,Green Maxi Dress,Apparel,Dresses,Green,Women,Summer,Casual,10057.jpg
+P058,Purple Wrap Dress,Apparel,Dresses,Purple,Women,Spring,Party,10058.jpg
+P059,Beige Linen Midi Dress,Apparel,Dresses,Beige,Women,Spring,Casual,10059.jpg
+P060,Black Sheath Dress,Apparel,Dresses,Black,Women,Winter,Formal,10060.jpg
+P061,White Leather Sneakers,Footwear,Casual Shoes,White,Men,Summer,Casual,10061.jpg
+P062,Black Canvas Slip-Ons,Footwear,Casual Shoes,Black,Men,Fall,Casual,10062.jpg
+P063,Brown Leather Loafers,Footwear,Casual Shoes,Brown,Men,Spring,Casual,10063.jpg
+P064,Navy Canvas Boat Shoes,Footwear,Casual Shoes,Navy,Men,Summer,Casual,10064.jpg
+P065,Grey Suede Sneakers,Footwear,Casual Shoes,Grey,Men,Fall,Casual,10065.jpg
+P066,White Platform Sneakers,Footwear,Casual Shoes,White,Women,Summer,Casual,10066.jpg
+P067,Black Ballet Flats,Footwear,Casual Shoes,Black,Women,Fall,Casual,10067.jpg
+P068,Beige Canvas Espadrilles,Footwear,Casual Shoes,Beige,Women,Spring,Casual,10068.jpg
+P069,Pink Canvas Sneakers,Footwear,Casual Shoes,Pink,Women,Summer,Casual,10069.jpg
+P070,Black Leather Oxfords,Footwear,Formal Shoes,Black,Men,Winter,Formal,10070.jpg
+P071,Brown Leather Derbys,Footwear,Formal Shoes,Brown,Men,Fall,Formal,10071.jpg
+P072,Black Patent Dress Shoes,Footwear,Formal Shoes,Black,Men,Winter,Formal,10072.jpg
+P073,Burgundy Leather Brogues,Footwear,Formal Shoes,Burgundy,Men,Fall,Formal,10073.jpg
+P074,Black Pointed Toe Heels,Footwear,Formal Shoes,Black,Women,Winter,Formal,10074.jpg
+P075,Nude Patent Pumps,Footwear,Formal Shoes,Nude,Women,Spring,Formal,10075.jpg
+P076,Black Ankle Boots,Footwear,Formal Shoes,Black,Women,Fall,Formal,10076.jpg
+P077,White Running Sneakers,Footwear,Sneakers,White,Men,Summer,Sports,10077.jpg
+P078,Black Training Sneakers,Footwear,Sneakers,Black,Men,Fall,Sports,10078.jpg
+P079,Blue Mesh Running Shoes,Footwear,Sneakers,Blue,Men,Spring,Sports,10079.jpg
+P080,Grey Retro Sneakers,Footwear,Sneakers,Grey,Men,Summer,Casual,10080.jpg
+P081,Black Structured Handbag,Accessories,Handbags,Black,Women,Fall,Formal,10081.jpg
+P082,Brown Leather Tote,Accessories,Handbags,Brown,Women,Spring,Casual,10082.jpg
+P083,Beige Canvas Crossbody,Accessories,Handbags,Beige,Women,Summer,Casual,10083.jpg
+P084,Navy Leather Shoulder Bag,Accessories,Handbags,Navy,Women,Fall,Formal,10084.jpg
+P085,Black Canvas Backpack,Accessories,Backpacks,Black,Men,Fall,Casual,10085.jpg
+P086,Navy Technical Daypack,Accessories,Backpacks,Navy,Men,Spring,Casual,10086.jpg
+P087,Grey Water-Resistant Backpack,Accessories,Backpacks,Grey,Men,Fall,Casual,10087.jpg
+P088,Black Leather Mini Backpack,Accessories,Backpacks,Black,Women,Fall,Casual,10088.jpg
+P089,Silver Stainless Watch,Accessories,Watches,Silver,Men,Summer,Formal,10089.jpg
+P090,Black Digital Sports Watch,Accessories,Watches,Black,Men,Fall,Casual,10090.jpg
+P091,Gold Plated Dress Watch,Accessories,Watches,Gold,Men,Winter,Formal,10091.jpg
+P092,Brown Leather Strap Watch,Accessories,Watches,Brown,Men,Spring,Casual,10092.jpg
+P093,Black Aviator Sunglasses,Accessories,Sunglasses,Black,Men,Summer,Casual,10093.jpg
+P094,Tortoise Wayfarer Sunglasses,Accessories,Sunglasses,Brown,Men,Summer,Casual,10094.jpg
+P095,Grey Sports Sunglasses,Accessories,Sunglasses,Grey,Men,Summer,Sports,10095.jpg
+P096,Black Cat Eye Sunglasses,Accessories,Sunglasses,Black,Women,Summer,Casual,10096.jpg
+P097,Black Leather Dress Belt,Accessories,Belts,Black,Men,Fall,Formal,10097.jpg
+P098,Brown Genuine Leather Belt,Accessories,Belts,Brown,Men,Spring,Casual,10098.jpg
+P099,Black Cotton Baseball Cap,Accessories,Caps,Black,Men,Summer,Casual,10099.jpg
+P100,Navy Performance Sports Cap,Accessories,Caps,Navy,Men,Summer,Sports,10100.jpg
