@@ -57,7 +57,7 @@ from PIL import Image
 from datetime import datetime
 from pyspark.sql.types import (
     StructType, StructField, StringType, ArrayType,
-    DoubleType, TimestampType, BooleanType
+    DoubleType, TimestampType, BooleanType, IntegerType
 )
 from pyspark.sql import functions as F
 
@@ -323,7 +323,7 @@ embedding_schema = StructType([
     StructField("image_path", StringType(), True),
     StructField("embedding", ArrayType(DoubleType()), False),
     StructField("embedding_model", StringType(), True),
-    StructField("embedding_dimension", StringType(), True),
+    StructField("embedding_dimension", IntegerType(), True),
     StructField("is_valid", BooleanType(), True),
     StructField("created_at", TimestampType(), True)
 ])

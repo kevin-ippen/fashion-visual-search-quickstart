@@ -48,6 +48,8 @@ print(f"Data source: {DATA_SOURCE}")
 # COMMAND ----------
 
 # Create schema if it doesn't exist
+# NOTE: CREATE CATALOG requires admin permissions on most workspaces.
+# If this fails, ask your workspace admin to grant access or use an existing catalog.
 spark.sql(f"CREATE CATALOG IF NOT EXISTS {CATALOG}")
 spark.sql(f"CREATE SCHEMA IF NOT EXISTS {CATALOG}.{SCHEMA}")
 spark.sql(f"USE CATALOG {CATALOG}")

@@ -26,6 +26,7 @@
 # Configuration - UPDATE THESE
 CATALOG = "main"
 SCHEMA = "fashion_quickstart"
+EMBEDDING_ENDPOINT = "fashionclip-endpoint"
 
 # Vector Search settings
 VS_ENDPOINT_NAME = "fashion-vs-quickstart"
@@ -283,7 +284,7 @@ else:
 # Get text embedding from FashionCLIP endpoint
 token = dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiToken().get()
 host = dbutils.notebook.entry_point.getDbutils().notebook().getContext().apiUrl().get()
-endpoint_url = f"{host}/serving-endpoints/fashionclip-endpoint/invocations"
+endpoint_url = f"{host}/serving-endpoints/{EMBEDDING_ENDPOINT}/invocations"
 
 def get_text_embedding(text_query):
     """Get embedding for a text query using FashionCLIP."""
